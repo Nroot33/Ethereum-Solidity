@@ -2,8 +2,7 @@ pragma solidity ^0.4.24;
 
 contract Bank {
     uint private balance = 100;     
-                                   
-    
+                              
     function plus() public payable {   
                                      
         balance += msg.value;
