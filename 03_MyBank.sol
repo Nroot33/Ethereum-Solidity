@@ -1,10 +1,9 @@
 pragma solidity ^0.4.24;
 
 contract Bank {
-    uint private balance = 100;     // unsigned integer
-                                    // private - 다른 언어와 다르게 타입 뒤에 위치
+    uint private balance = 100;     
     
-    function plus(uint amount) public { // public : 누구나 접근 가능
+    function plus(uint amount) public { 
         balance += amount;
     }
 
