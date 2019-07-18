@@ -1,5 +1,6 @@
-Hyo-Coin
+Hyo-Coin   by.inflearn
 ========
+
 ### 1. 블록체인의 정의
  - 블록 - Data의 집합
  - 블록들의 연결 
